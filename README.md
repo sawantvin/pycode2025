@@ -1,2 +1,2 @@
 # pycode2025
-Python codebase
+print("Hello")
